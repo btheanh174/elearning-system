@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/addquestion.jsp=UTF-8
+encoding//WebContent/admincp/Question.jsp=UTF-8
+encoding//WebContent/login.jsp=UTF-8
+encoding//WebContent/question.jsp=UTF-8
+encoding//src/Controller/ExamServlet.java=UTF-8
+encoding//src/Controller/QuestionServlet.java=UTF-8
+encoding//src/Controller/RegistrationServlet.java=UTF-8
+encoding//src/Controller/StudentServlet.java=UTF-8
+encoding/<project>=UTF-8
